@@ -7,7 +7,7 @@ package game;
 public class RedGuard {
 
 	public static void main(String[] args) {
-		
+		system.out.println("Testing David");
 	}
 
 }
